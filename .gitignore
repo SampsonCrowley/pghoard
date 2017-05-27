@@ -1,7 +1,5 @@
 /*
 /*/
+!*.tar.xz
 !/.gitignore
-!/*.pkg.tar.xz
 !/PKGBUILD
-!/pgpool-ii.conf.d
-!/pgpool-ii.service
